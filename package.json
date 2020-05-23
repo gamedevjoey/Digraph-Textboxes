@@ -1,0 +1,34 @@
+{
+  "name": "react-digraph-textboxes",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "main": "src/index.js",
+  "dependencies": {
+    "draft-js": "0.11.5",
+    "draftjs-to-html": "0.9.1",
+    "html-to-draftjs": "1.4.0",
+    "react": "16.8.6",
+    "react-digraph": "6.6.4",
+    "react-dom": "16.8.6",
+    "react-draft-wysiwyg": "1.14.4",
+    "react-modal": "3.9.1",
+    "react-scripts": "3.0.1",
+    "styled-components": "5.1.0"
+  },
+  "devDependencies": {
+    "typescript": "3.3.3"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}

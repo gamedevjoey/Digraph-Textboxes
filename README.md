@@ -9,31 +9,51 @@ FEATURES:
 Textbox's can be constructed out of the following:
 
 Text:
+
 bold
+
 italics
+
 underline
+
 strikethough
+
 monospace
+
 Superscript
+
 subscript
 
 Text types:
+
 normal
+
 headings
+
 blockqoute
+
 code
+
 bullet points
+
 ordered
 
 Options:
 
 fontsize
+
 font
+
 color
+
 allignment
+
 highlight color
+
 hyperlink
+
 emojis
+
 image links
 
 DEPENDENCIES:
@@ -41,14 +61,21 @@ DEPENDENCIES:
 React-Digraph:
 
 react
+
 react-digraph
+
 react-dom
+
 react-model
+
 react-scripts
 
 Textbox:
 
 draft-js
+
 draft-js-to-html
+
 html-to-draft-js
+
 react-draft-wysiwyg (this has the text editer)
